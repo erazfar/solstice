@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">SolsticeFeedReader</string>
+	<string name="no_items">No Items Found</string>
+</resources>
